@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# Finance_app
-=======
-<<<<<<< HEAD
-# Finance_app
-=======
-# finnanceapp
+## 👥 Kelompok
+- **Firda Widiasari** — NIM: 232101266 
 
-A new Flutter project.
->>>>>>> 71e7571 (financeapp)
->>>>>>> 365c4fc (financeapp)
+
